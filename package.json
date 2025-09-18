@@ -1,0 +1,20 @@
+{
+  "name": "api-musica-clipe",
+  "version": "1.0.0",
+  "description": "API simples para buscar música e clipe do YouTube usando any4k + yt-search",
+  "main": "any.js",
+  "scripts": {
+    "start": "node any.js",
+    "dev": "nodemon any.js"
+  },
+  "dependencies": {
+    "axios": "",
+    "cors": "",
+    "express": "",
+    "uuid": "",
+    "yt-search": ""
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
